@@ -32,6 +32,7 @@ ol, ul {
 	list-style: none;
 }
 
+
 blockquote, q {
 	quotes: none;
 }
@@ -229,6 +230,7 @@ input, select, textarea {
 	h6 {
 		font-size: 0.6em;
 	}
+	
 
 	@media screen and (max-width: 736px) {
 
